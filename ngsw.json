@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1656504099271,
+  "timestamp": 1656508494185,
   "index": "https://h-dymitr.github.io/simple-app/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://h-dymitr.github.io/simple-app/favicon.ico",
         "https://h-dymitr.github.io/simple-app/index.html",
-        "https://h-dymitr.github.io/simple-app/main.f5251df53eea30d8.js",
+        "https://h-dymitr.github.io/simple-app/main.fb7d0917d8b20072.js",
         "https://h-dymitr.github.io/simple-app/manifest.webmanifest",
         "https://h-dymitr.github.io/simple-app/polyfills.dbad761cd33501ad.js",
         "https://h-dymitr.github.io/simple-app/runtime.d92fece2de8f3673.js",
@@ -52,9 +52,9 @@
     "https://h-dymitr.github.io/simple-app/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://h-dymitr.github.io/simple-app/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://h-dymitr.github.io/simple-app/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://h-dymitr.github.io/simple-app/index.html": "c44802d7dc1175213f100e4090babd2e257e5a74",
-    "https://h-dymitr.github.io/simple-app/main.f5251df53eea30d8.js": "8dc4e3704189fd0e58e4caa15df0073f4f5b3a1b",
-    "https://h-dymitr.github.io/simple-app/manifest.webmanifest": "174283516a598ff83ee1215fd4030119bfc54abf",
+    "https://h-dymitr.github.io/simple-app/index.html": "72418b684dbeed47eef6896c8572d408631ed1ec",
+    "https://h-dymitr.github.io/simple-app/main.fb7d0917d8b20072.js": "c72a3a02507b37f11098e6d1e22d48433b56663f",
+    "https://h-dymitr.github.io/simple-app/manifest.webmanifest": "032156947dc4f2d129cf8dd7c4d8fbe7104aea68",
     "https://h-dymitr.github.io/simple-app/polyfills.dbad761cd33501ad.js": "f9e5bd135cc9d74782b0f94d5e4d61297734de55",
     "https://h-dymitr.github.io/simple-app/runtime.d92fece2de8f3673.js": "112de46e9e76b0f07ac73ab5867c8702155f769c",
     "https://h-dymitr.github.io/simple-app/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"

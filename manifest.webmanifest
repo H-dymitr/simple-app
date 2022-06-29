@@ -6,6 +6,7 @@
   "display": "fullscreen",
   "scope": "./",
   "start_url": "./",
+  "id": "dmitry",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
